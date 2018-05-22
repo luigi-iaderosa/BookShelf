@@ -1,0 +1,7 @@
+file info:
+all uml to be opened with violet uml
+db xml to be used with draw.io
+
+git instructions
+git remote add origin https://github.com/luigi-iaderosa/BookShelf.git
+git push -u origin master
